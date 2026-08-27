@@ -1,0 +1,6 @@
+{
+  "name": "Paradise Little Angels Secondary School Wan Khara",
+  "description": "School Management System for Paradise Little Angels Secondary School, Wan Khara covering SIS, Academics, Attendance, Fees, and Portals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
